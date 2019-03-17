@@ -3,3 +3,4 @@ Win32/
 x64/
 *.vcxproj.user
 *.swp
+Thumbs.db
